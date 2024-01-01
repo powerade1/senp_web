@@ -17,8 +17,8 @@ export default function Nav() {
               </Link>
             </div>
             <div className='flex flex-row space-x-4 mr-52'>
-              <Link href={'/pages/prod_page'}>PROD</Link>
-              <Link href={'/pages/type_page'}>TYPE</Link>
+              <Link href={'/prod'}>PROD</Link>
+              <Link href={'/prod/type_page'}>TYPE</Link>
               <SessionProvider>
                 <LoginButton/>
               </SessionProvider>

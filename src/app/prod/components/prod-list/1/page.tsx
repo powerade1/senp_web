@@ -6,8 +6,8 @@ import Detail1 from 'images/prod/1/detail1.jpg'
 import Detail2 from 'images/prod/1/detail2.jpg'
 import Detail3 from 'images/prod/1/detail3.jpg'
 import Detail4 from 'images/prod/1/detail4.jpg'
-import LikeButton from 'src/app/components/ui/heart'
-import OptionSelector from 'src/app/components/ui/option'
+import LikeButton from 'src/app/prod/components/heart'
+import OptionSelector from 'src/app/prod/components/option'
 import { useRef } from 'react'
 
 

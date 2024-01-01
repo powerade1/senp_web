@@ -9,7 +9,7 @@ export default function Component() {
     if (session) {
       return (
         <>
-          <Link href={'/pages/profile_page'}>PROFILE</Link>
+          <Link href={'/profile'}>PROFILE</Link>
         </>
       )
     }

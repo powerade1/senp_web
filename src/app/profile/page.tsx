@@ -1,7 +1,7 @@
 'use client'
 
 import { SessionProvider } from 'next-auth/react';
-import UserProfile from 'src/app/components/ui/user-profile';
+import UserProfile from 'src/app/profile/components/user-profile';
 
 export default function Profile() {
 
